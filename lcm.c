@@ -1,3 +1,4 @@
+#include<stdio.h>
 int lcm(int ,int);
 int main()
 {
